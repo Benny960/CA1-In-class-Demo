@@ -1,31 +1,31 @@
 {
-  "name": "benny",
+  "name": "ca1-in-class-demo",
   "version": "1.0.0",
-  "description": "just an in-class app",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gitpod-io/NextSimpleStarter.git"
-  },
-  "author": "Me",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gitpod-io/NextSimpleStarter/issues"
-  },
-  "homepage": "https://github.com/gitpod-io/NextSimpleStarter#readme",
+  "description": "CA1 in-class demo",
+  "main": "app.js",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "heroku": "^7.39.5",
-    "http": "0.0.0",
-    "mongoose": "^5.9.10",
-    "morgan": "^1.9.1"
+    "http": "^0.0.0",
+    "mongoose": "^5.9.10"
+    
+    
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benny960/CA1-In-class-Demo.git"
+  },
+  "author": "Benny960",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benny960/CA1-In-class-Demo/issues"
+  },
+  "homepage": "https://github.com/Benny960/CA1-In-class-Demo#readme"
 }
