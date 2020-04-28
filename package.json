@@ -1,6 +1,6 @@
 {
-  "name": "demo_app",
-  "version": "0.0.1",
+  "name": "benny",
+  "version": "1.0.0",
   "description": "just an in-class app",
   "main": "server.js",
   "scripts": {
